@@ -1,8 +1,8 @@
 ## Hey there! 👋  
 I'm Eric, a 22-year-old CS student from Germany 🇩🇪.  
-I’m all about coding and tech. 💻
+“Sometimes I write code just to watch it fail.”
 
-Check out my latest project: [Blobl.io](https://blobl.io)! 🚀
+Check out my latest multiplayer web game: [Blobl.io](https://blobl.io)! 🚀
 
 ![Coding GIF](http://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
 
